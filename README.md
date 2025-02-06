@@ -1,2 +1,2 @@
-# Aidas-Portfolio
-Personal MySQL and Python projects 
+# Portfolio
+Personal MySQL, Python and Power BI projects for recruiters
